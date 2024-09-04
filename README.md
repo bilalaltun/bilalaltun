@@ -3,7 +3,6 @@
 ## About Me
 - I'm Bilal Altun
 - 🧑‍💼 Software Developer at @<a href="https://aifteam.com.tr/">AIFTeam</a>
-- 👨‍🎓💻 Computer Engineering Graduate
  
 ## 🔧 Languages and Tools
 <img align="left" alt="Github" width="32px" src="https://img.icons8.com/ios-filled/50/github.png" />
