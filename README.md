@@ -22,10 +22,40 @@
 <img align="left" alt="Vue.js" width="32px" src="https://img.icons8.com/color/48/000000/vue-js.png" />
 <img align="left" alt="GraphQL" width="32px" src="https://img.icons8.com/color/48/000000/graphql.png" />
 <img align="left" alt="PHP" width="32px" src="https://img.icons8.com/officel/80/php-logo.png" />
-<img align="left" alt="Net-Core" width="32px" src="https://img.icons8.com/color/48/net-framework.png" />
+<img align="left" alt=".Net Core" width="32px" src="https://img.icons8.com/color/48/net-framework.png" />
 <img align="left" alt="C-Sharp" width="32px" src="https://img.icons8.com/color/48/c-sharp-logo-2.png" />
+</br>
+
+## 🖥️ 3D Tools
+<img align="left" alt="Blender" width="32px" src="https://img.icons8.com/color/48/blender-3d.png" />
+<img align="left" alt="3DMax" width="32px" src="https://img.icons8.com/color/48/autodesk-3ds-max.png" />
+<img align="left" alt="Keyshot" width="32px" src="https://img.icons8.com/color/48/keyshot.png" />
+</br>
+
+## 🎬 Video Editing Tools
+<img align="left" alt="After Effects" width="32px" src="https://img.icons8.com/color/48/adobe-after-effects--v2.png" />
+<img align="left" alt="Premiere" width="32px" src="https://img.icons8.com/color/48/adobe-premiere-pro--v1.png" />
+</br>
+
+## 🎨 Graphic Design Tools
+<img align="left" alt="Photoshop" width="32px" src="https://img.icons8.com/color/48/adobe-photoshop--v1.png" />
+<img align="left" alt="Illustrator" width="32px" src="https://img.icons8.com/color/48/adobe-illustrator--v1.png" />
+<img align="left" alt="XD" width="32px" src="https://img.icons8.com/color/48/adobe-xd--v1.png" />
+<img align="left" alt="Indesign" width="32px" src="https://img.icons8.com/color/48/adobe-indesign.png" />
+<img align="left" alt="Figma" width="32px" src="https://img.icons8.com/color/48/figma--v1.png" />
+</br>
+
+## 🖥️ Server
+<img align="left" alt="Windows" width="32px" src="https://img.icons8.com/color/48/000000/windows-10.png" />
+<img align="left" alt="Linux" width="32px" src="https://img.icons8.com/color/48/000000/linux.png" />
+</br>
+
+## 🗄️ Databases
+<img align="left" alt="MSSQL" width="32px" src="https://img.icons8.com/color/48/microsoft-sql-server.png" />
+<img align="left" alt="MySQL" width="32px" src="https://img.icons8.com/color/48/mysql-logo.png" />
+<img align="left" alt="MongoDB" width="32px" src="https://img.icons8.com/color/48/mongodb.png" />
 </br>
  
 ## 📞 Connect with me
-<a href="https://www.linkedin.com/in/bilalaltun/" target="_blank"><img align="left" src="https://user-images.githubusercontent.com/72522469/152289880-c99bd2ee-3e7c-4e0d-bc16-a6009834635d.png" alt="" width="32px" /></a> 
+<a href="https://www.linkedin.com/in/bilalaltun/" target="_blank"><img align="left" src="https://user-images.githubusercontent.com/72522469/152289880-c99bd2ee-3e7c-4e0d-bc16-a6009834635d.png" alt="" width="32px" /></a>
 </br>
