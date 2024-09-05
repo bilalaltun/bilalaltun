@@ -33,8 +33,8 @@
 ## 🖥️ 3D Tools
 <img align="left" alt="Blender" width="32px" src="https://img.icons8.com/color/48/blender-3d.png" />
 <img align="left" alt="3DMax" width="32px" src="https://img.icons8.com/color/48/autodesk-3ds-max.png" />
-<img align="left" alt="Sketchfab" width="32px" src="https://img.icons8.com/fluency/48/sketchfab.png" />
-<img align="left" alt="SketchUp" width="32px" src="https://img.icons8.com/fluency/48/sketchup.png" />
+<img align="left" alt="Sketchfab" width="32px" src="https://icons8.com/icon/79107/sketchfab" />
+<img align="left" alt="SketchUp" width="32px" src="https://icons8.com/icon/79079/google-sketchup" />
 <img align="left" alt="Unity" width="32px" src="https://img.icons8.com/ios-filled/50/unity.png" />
 </br>
 
