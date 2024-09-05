@@ -2,7 +2,7 @@
  
 ## About Me
 - I'm Bilal Altun
-- 🧑‍💼 Software Developer at @<a href="https://aifteam.com.tr/">AIFTeam</a>
+- 🧑‍💼 Software Developer at @#######
  
 ## 🔧 Languages and Tools
 <img align="left" alt="Github" width="32px" src="https://img.icons8.com/ios-filled/50/github.png" />
@@ -24,12 +24,18 @@
 <img align="left" alt="PHP" width="32px" src="https://img.icons8.com/officel/80/php-logo.png" />
 <img align="left" alt=".Net Core" width="32px" src="https://img.icons8.com/color/48/net-framework.png" />
 <img align="left" alt="C-Sharp" width="32px" src="https://img.icons8.com/color/48/c-sharp-logo-2.png" />
+<img align="left" alt="Flutter" width="32px" src="https://img.icons8.com/color/48/flutter.png" />
+<img align="left" alt="Android Studio" width="32px" src="https://img.icons8.com/color/48/android-studio--v3.png" />
+<img align="left" alt="Swift" width="32px" src="https://img.icons8.com/color/48/swift.png" />
+<img align="left" alt="Xcode" width="32px" src="https://img.icons8.com/color/48/xcode.png" />
 </br>
 
 ## 🖥️ 3D Tools
 <img align="left" alt="Blender" width="32px" src="https://img.icons8.com/color/48/blender-3d.png" />
 <img align="left" alt="3DMax" width="32px" src="https://img.icons8.com/color/48/autodesk-3ds-max.png" />
-<img align="left" alt="Keyshot" width="32px" src="https://img.icons8.com/color/48/keyshot.png" />
+<img align="left" alt="Sketchfab" width="32px" src="https://img.icons8.com/fluency/48/sketchfab.png" />
+<img align="left" alt="SketchUp" width="32px" src="https://img.icons8.com/fluency/48/sketchup.png" />
+<img align="left" alt="Unity" width="32px" src="https://img.icons8.com/ios-filled/50/unity.png" />
 </br>
 
 ## 🎬 Video Editing Tools
